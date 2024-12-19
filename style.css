@@ -16,7 +16,7 @@ body{
     font-weight: bold;
     position: relative;
     bottom: 20px;
-    left: 20px;
+    left: 35px;
 }
 
 .topnav a{
@@ -25,6 +25,7 @@ body{
     font-size: 24px;
     font-weight: bold;
     margin: auto;
+    margin-top: 35px;
     padding: 10px;
 }
 
