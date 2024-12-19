@@ -59,9 +59,11 @@ body{
 .main{
     font-size: 30px;
     margin: auto;
-    padding: 40px;
+    padding: 100px;
     width: auto;
     max-width: 1300px;
+    position: relative;
+    left: 100px;
 }
 
 .main img{
