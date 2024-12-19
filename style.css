@@ -14,13 +14,15 @@ body{
     font-size: 48px;
     font-weight: bold;
     position: relative;
-    bottom: 10px;
+    bottom: 20px;
+    left: 20px;
 }
 
 .topnav a{
     float: right;
     color: #FFFF;
-    font-size: 20px;
+    font-size: 24px;
+    font-weight: bold;
     margin: 10px;
     padding: 10px;
 }
