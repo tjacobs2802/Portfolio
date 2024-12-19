@@ -75,6 +75,8 @@ body{
     font-weight: bold;
     color: #7DA85C;
     float: left;
+    position: relative;
+    bottom: 35px;
 }
 
 
@@ -103,7 +105,11 @@ body{
 
 .info{
     position: relative;
-    top: 75px;
+    top: 40px;
     left: 75px;
 }
 
+.buttons{
+    position: relative;
+    right: 320px;
+}
