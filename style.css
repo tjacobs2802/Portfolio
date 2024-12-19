@@ -1,0 +1,24 @@
+.topnav {
+    overflow: hidden;
+    background-color: #000000;
+    color: #FFFF;
+}
+
+.topnav a{
+    float: right;
+    color: #FFFF;
+}
+
+.topnav img{
+    width: auto;
+    height: auto;
+    max-width: 46px;
+    max-height: 87px;
+}
+
+.contactMe{
+    width: auto;
+    height: auto;
+    max-width: 39px;
+    max-height: 39px;
+}
