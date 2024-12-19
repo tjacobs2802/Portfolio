@@ -13,7 +13,8 @@ body{
     float: left;
     font-size: 48px;
     font-weight: bold;
-    padding: 10px 10px;
+    position: relative;
+    bottom: 10px;
 }
 
 .topnav a{
