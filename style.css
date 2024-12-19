@@ -19,6 +19,14 @@ body{
     left: 35px;
 }
 
+.contactMe img{
+    width: auto;
+    height: auto;
+    max-width: 39px;
+    max-height: 39px;
+    margin-bottom: 60px;
+}
+
 .topnav a{
     float: right;
     color: #FFFF;
@@ -40,12 +48,7 @@ body{
 }
 
 
-.contactMe{
-    width: auto;
-    height: auto;
-    max-width: 39px;
-    max-height: 39px;
-}
+
 
 .logo{
     margin-left: 40px;
