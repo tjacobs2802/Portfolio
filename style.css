@@ -32,7 +32,6 @@ body{
 .topnav img{
     float: left;
     margin: auto;
-    margin-left: 40px;
     padding: 10px;
     width: auto;
     height: auto;
@@ -40,8 +39,12 @@ body{
     max-height: 87px;
 }
 
+.logo{
+    margin-left: 40px;
+}
 
-.contactMe{
+
+.contactme{
     width: auto;
     height: auto;
     max-width: 39px;
