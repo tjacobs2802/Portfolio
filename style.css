@@ -159,13 +159,25 @@ body{
 }
 
 .websitecreate p{
-    float: right;
+    float: left;
 }
 
 .moviecreation p{
-    float: left;
+    float: right;
 }
 
 .fsm p{
+    float: right;
+}
+
+.websitecreate{
+    float: right;
+}
+
+.moviecreation{
     float: left;
+}
+
+.fsm{
+    float: left
 }
