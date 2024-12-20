@@ -159,6 +159,11 @@ body{
     padding: 40px;
 }
 
+
+.moviecreation{
+    float: left;
+}
+
 .websitecreate p{
     float: left;
 }
@@ -177,9 +182,6 @@ body{
     margin-bottom: 200px;
 }
 
-.moviecreation{
-    float: left;
-}
 
 .fsm{
     float: left;
