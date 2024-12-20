@@ -189,4 +189,6 @@ body{
     font-size: 40px;
     font-weight: bold;
     color: #7DA85C;
+    position: relative;
+    bottom: 20px;
 }
