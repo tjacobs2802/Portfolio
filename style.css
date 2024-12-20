@@ -113,11 +113,13 @@ body{
     right: 320px;
 }
 
-
-.about img{
+.about img {
     height: auto;
     max-height: 700px;
+    text-align: center;
     float: left;
+    margin: 20px;
+    padding: 20px;
 }
 
 .abouttitle{
