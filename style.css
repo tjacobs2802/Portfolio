@@ -150,6 +150,7 @@ body{
     height: auto;
     max-height: 300px;
     border: 2px solid #000000;
+    float: right;
 }
 
 .project {
@@ -160,27 +161,21 @@ body{
 }
 
 
-.moviecreation{
+.moviecreation video{
     float: left;
 }
 
-.websitecreate p{
-    float: left;
-}
-
-.moviecreation p{
-    float: right;
-}
 
 .fsm p{
     float: right;
 }
 
 .websitecreate{
-    float: right;
+
     margin-top: 150px;
     margin-bottom: 200px;
 }
+
 
 
 .fsm{
