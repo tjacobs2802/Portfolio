@@ -173,7 +173,8 @@ body{
 
 .websitecreate{
     float: right;
-    margin-top: 60px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .moviecreation{
@@ -182,13 +183,14 @@ body{
 
 .fsm{
     float: left;
-    margin-top: 60px;
 }
 
 .projtitle{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     color: #7DA85C;
     position: relative;
     bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
