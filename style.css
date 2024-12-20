@@ -146,12 +146,7 @@ body{
     padding: 40px;
 }
 
-.websitecreate img {
-    height: auto;
-    max-height: 300px;
-    border: 2px solid #000000;
-    float: right;
-}
+
 
 .project {
     margin: auto;
@@ -161,26 +156,10 @@ body{
 }
 
 
-.moviecreation video{
-    float: left;
-}
-
-
-.fsm p{
-    float: right;
-}
-
-.websitecreate{
-
-    margin-top: 150px;
-    margin-bottom: 200px;
-}
-
-
-
-.fsm{
-    float: left;
-    margin-bottom: 150px;
+.websitecreate img {
+    height: auto;
+    max-height: 300px;
+    border: 2px solid #000000;
 }
 
 .projtitle{
@@ -189,11 +168,11 @@ body{
     color: #7DA85C;
     position: relative;
     bottom: 15px;
-    padding-left: 30px;
-    padding-right: 30px;
+
 }
 
 .projdesc{
     font-size: 20px;
     line-height: 1.5;
+
 }
