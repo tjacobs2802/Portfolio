@@ -59,8 +59,6 @@ body{
     padding-top: 100px;
     width: auto;
     max-width: 1300px;
-    position: relative;
-    left: 100px;
 }
 
 .main img{
@@ -103,9 +101,7 @@ body{
 }
 
 .info{
-    position: relative;
-    top: 40px;
-    left: 75px;
+
 }
 
 .buttons{
@@ -143,6 +139,7 @@ body{
     width: auto;
     max-width: 1700px;
     padding: 40px;
+    padding-top: revert;
 }
 
 
