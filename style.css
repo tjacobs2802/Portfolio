@@ -113,11 +113,13 @@ body{
     margin: auto;
     width: auto;
     max-width: 1300px;
+    padding: 40px;
 }
 
 .abtimg {
+    height: 100%;
     width: 100%;
-    max-width: 350px;
+    max-width: 550px;
 }
 
 .abouttitle{
@@ -128,6 +130,7 @@ body{
 
 .aboutinfo{
     padding-left: 40px;
+    font-size: 20px;
 }
 
 /* CSS for project page */
