@@ -4,6 +4,7 @@ body{
     background-color: #FFFF;
 }
 
+/* CSS for top navigation bar */
 .topnav {
     overflow: hidden;
     background-color: #000000;
@@ -52,7 +53,7 @@ body{
     margin-left: 40px;
 }
 
-
+/* CSS for main home page */
 .main{
     font-size: 30px;
     margin: auto;
@@ -90,6 +91,7 @@ body{
     border-radius: 60px;
 }
 
+/* CSS for about page */
 .description{
     position: relative;
     top: 80px;
@@ -100,9 +102,6 @@ body{
     right: 320px;
 }
 
-.info{
-
-}
 
 .buttons{
     position: relative;
@@ -133,6 +132,8 @@ body{
     font-size: 18px;
 }
 
+
+/* CSS for project page */
 
 .project {
     margin: auto;
