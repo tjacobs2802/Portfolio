@@ -57,6 +57,7 @@ body{
 .main{
     font-size: 30px;
     margin: auto;
+    padding: 40px;
     padding-top: 100px;
     width: auto;
     max-width: 1300px;
@@ -64,6 +65,8 @@ body{
 }
 
 .main img{
+    width: 100%;
+    max-width: 418px;
 }
 
 
@@ -87,7 +90,8 @@ body{
     border-radius: 60px;
 }
 
-.buttons{
+.info{
+    padding-left: 40px;
 }
 
 
