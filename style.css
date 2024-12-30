@@ -110,6 +110,9 @@ body{
 /* CSS for about page */
 .about{
     display: flex;
+    margin: auto;
+    width: auto;
+    max-width: 1300px;
 }
 
 .abtimg {
@@ -120,6 +123,11 @@ body{
 .abouttitle{
     font-size: 48px;
     color: #7DA85C;
+    font-weight: bold;
+}
+
+.aboutinfo{
+    padding-left: 40px;
 }
 
 /* CSS for project page */
