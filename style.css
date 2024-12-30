@@ -53,6 +53,11 @@ body{
     margin-left: 40px;
 }
 
+.left{
+    position: relative;
+    left: 70px;
+}
+
 /* CSS for main home page */
 .main{
     font-size: 30px;
