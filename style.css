@@ -131,6 +131,10 @@ body{
     font-size: 20px;
 }
 
+.abouttext{
+    position: relative;
+    bottom: 20px;
+}
 /* CSS for project page */
 
 .project {
