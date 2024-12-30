@@ -91,7 +91,11 @@ body{
     border-radius: 60px;
 }
 
-/* CSS for about page */
+.buttons{
+    position: relative;
+    right: 320px;
+}
+
 .description{
     position: relative;
     top: 80px;
@@ -103,34 +107,7 @@ body{
 }
 
 
-.buttons{
-    position: relative;
-    right: 320px;
-}
-
-
-.about {
-    display: flex;
-    align-items: flex-start;
-    padding: 20px;
-    gap: 20px;
-}
-
-.about img {
-    max-width: 350px;
-    height: auto;
-}
-
-.abouttitle{
-    font-size: 48px;
-    font-weight: bold;
-    color: #7DA85C;
-    float: left;
-}
-
-.aboutinfo {
-    font-size: 18px;
-}
+/* CSS for about page */
 
 
 /* CSS for project page */
