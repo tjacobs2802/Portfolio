@@ -108,7 +108,19 @@ body{
 
 
 /* CSS for about page */
+.about{
+    display: flex;
+}
 
+.abtimg {
+    width: 100%;
+    max-width: 350px;
+}
+
+.abouttitle{
+    font-size: 48px;
+    color: #7DA85C;
+}
 
 /* CSS for project page */
 
