@@ -64,7 +64,6 @@ body{
 
 .main img{
     text-align: center;
-    float: left;
 }
 
 
@@ -72,9 +71,6 @@ body{
     font-size: 48px;
     font-weight: bold;
     color: #7DA85C;
-    float: left;
-    position: relative;
-    bottom: 35px;
 }
 
 
