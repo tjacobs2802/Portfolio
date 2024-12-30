@@ -69,13 +69,11 @@ body{
     max-width: 418px;
 }
 
-
 .name{
     font-size: 48px;
     font-weight: bold;
     color: #7DA85C;
 }
-
 
 .main a{
     font-weight: bold;
@@ -90,8 +88,16 @@ body{
     border-radius: 60px;
 }
 
-.info{
-    padding-left: 40px;
+.homeinfo {
+    font-size: 30px;
+    margin-top: revert;
+    position: relative;
+    bottom: 20px;
+}
+
+.buttons {
+    position: relative;
+    bottom: 20px;
 }
 
 
