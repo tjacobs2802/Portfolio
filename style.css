@@ -60,10 +60,10 @@ body{
     padding-top: 100px;
     width: auto;
     max-width: 1300px;
+    display: flex;
 }
 
 .main img{
-    text-align: center;
 }
 
 
@@ -88,19 +88,8 @@ body{
 }
 
 .buttons{
-    position: relative;
-    right: 320px;
 }
 
-.description{
-    position: relative;
-    top: 80px;
-}
-
-.moredescript{
-    position: relative;
-    right: 320px;
-}
 
 
 /* CSS for about page */
